@@ -1,0 +1,135 @@
+{
+  "step_config": [
+    {
+      "allow_multiple_segment": false,
+      "allow_set_visible": true,
+      "allow_skip": false,
+      "close_path": true,
+      "color": "#f7931e",
+      "connect_with_line": true,
+      "length": 13,
+      "name": "左眉1-13",
+      "shortcut": "M",
+      "unmarkable": false
+    },
+    {
+      "allow_multiple_segment": false,
+      "allow_set_visible": true,
+      "allow_skip": false,
+      "close_path": true,
+      "color": "#ff0000",
+      "connect_with_line": true,
+      "length": 13,
+      "name": "右眉14-26",
+      "shortcut": "N",
+      "unmarkable": false
+    },
+    {
+      "allow_multiple_segment": false,
+      "allow_set_visible": true,
+      "allow_skip": false,
+      "close_path": true,
+      "color": "#00ffff",
+      "connect_with_line": true,
+      "length": 22,
+      "name": "左眼27-48",
+      "shortcut": "L",
+      "unmarkable": false
+    },
+    {
+      "allow_multiple_segment": false,
+      "allow_set_visible": true,
+      "allow_skip": false,
+      "close_path": true,
+      "color": "#0000ff",
+      "connect_with_line": true,
+      "length": 22,
+      "name": "右眼49-70",
+      "shortcut": "J",
+      "unmarkable": false
+    },
+    {
+      "allow_multiple_segment": false,
+      "allow_set_visible": true,
+      "allow_skip": false,
+      "close_path": true,
+      "color": "#a090ff",
+      "connect_with_line": true,
+      "length": 4,
+      "name": "左眼中心71-74",
+      "shortcut": "L",
+      "unmarkable": false
+    },
+    {
+      "allow_multiple_segment": false,
+      "allow_set_visible": true,
+      "allow_skip": false,
+      "close_path": true,
+      "color": "#a090ff",
+      "connect_with_line": true,
+      "length": 4,
+      "name": "右眼中心75-78",
+      "shortcut": "J",
+      "unmarkable": false
+    },
+    {
+      "allow_multiple_segment": false,
+      "allow_set_visible": true,
+      "allow_skip": false,
+      "close_path": true,
+      "color": "#009245",
+      "connect_with_line": true,
+      "length": 4,
+      "name": "鼻翼四点79-82",
+      "shortcut": "B",
+      "unmarkable": false
+    },
+    {
+      "allow_multiple_segment": false,
+      "allow_set_visible": true,
+      "allow_skip": false,
+      "color": "#009245",
+      "connect_with_line": true,
+      "length": 11,
+      "name": "鼻侧83-93",
+      "shortcut": "B",
+      "unmarkable": false
+    },
+    {
+      "allow_multiple_segment": false,
+      "allow_set_visible": true,
+      "allow_skip": false,
+      "close_path": true,
+      "color": "#ff00ff",
+      "connect_with_line": true,
+      "length": 50,
+      "name": "外嘴唇94-143",
+      "shortcut": "J",
+      "unmarkable": false
+    },
+    {
+      "allow_multiple_segment": false,
+      "allow_set_visible": true,
+      "allow_skip": false,
+      "close_path": true,
+      "color": "#ff00dd",
+      "connect_with_line": true,
+      "length": 14,
+      "name": "内嘴唇144-157",
+      "shortcut": "J",
+      "unmarkable": false
+    },
+    {
+      "allow_multiple_segment": false,
+      "allow_set_visible": true,
+      "allow_skip": false,
+      "close_path": false,
+      "color": "#99ddff",
+      "connect_with_line": true,
+      "length": 83,
+      "name": "脸颊158-240",
+      "shortcut": "J",
+      "unmarkable": false
+    }
+  ]
+}
