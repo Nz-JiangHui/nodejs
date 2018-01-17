@@ -6,7 +6,7 @@ var util = require('util')
 var queryString = require('querystring')
 
 var postHTML =
-    '<html><head><meta charset="utf-8"><title>菜鸟教程 Node.js 实例</title></head>' +
+    '<html><head><meta charset="utf-8"><title>Node.js 实例</title></head>' +
     '<body>' +
     '<form method="post">' +
     '网站名： <input name="name"><br>' +
@@ -14,7 +14,7 @@ var postHTML =
     '<input type="submit">' +
     '</form>' +
     '</body></html>';
-http.createServer(function (res, req) {
+http.createServer(function (req, res) {
     var body = ''
     req.on('data', function (chunk) {
         body += chunk
