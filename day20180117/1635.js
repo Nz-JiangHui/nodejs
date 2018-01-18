@@ -25,3 +25,5 @@ http.createServer(function (req,res) {
         res.end();
     })
 }).listen(5011)
+
+console.log('Server running at http://127.0.0.1:5011/')
