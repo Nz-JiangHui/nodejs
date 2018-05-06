@@ -10,3 +10,4 @@ http.createServer(function (request, response) {
 
     response.end('hello world\n')
 }).listen(5011)
+console.log('http://localhost:5011')
